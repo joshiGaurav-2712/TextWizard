@@ -180,22 +180,6 @@ python manage.py test
 python manage.py check
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Gaurav Joshi**
-
-- GitHub: [@joshiGaurav-2712](https://github.com/joshiGaurav-2712)
-
-## 🙏 Acknowledgments
-
-- Django community for the amazing web framework
-- Bootstrap team for the responsive CSS framework
-- Typed.js for the smooth typing animations
-- CodeWithHarry for Django course inspiration
 
 ## 📊 Project Stats
 
@@ -204,14 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Frontend**: Bootstrap 4.6.2 + Vanilla JavaScript
 - **Database**: SQLite3
 - **Text Operations**: 7 unique transformations
-- **Responsive**: ✅ Mobile-friendly design
+
 
 ---
 
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-[Report Bug](https://github.com/joshiGaurav-2712/test/issues) • [Request Feature](https://github.com/joshiGaurav-2712/test/issues) • [View Demo](http://127.0.0.1:8000/)
-
-</div>
